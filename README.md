@@ -11,8 +11,15 @@ This my fourth project in school. In this project we needed to make a program th
 
 ### What I learned from this project
 
-This was the first team(2 students) project for us and because of that there was some trouble in coordinating the collaboration in this project which slowed us down quite a lot. For the first time in a project I used the bottom-up programming,
-which certainly gave some advantage in being able to totally focus on the hardest part for last. Hardest part to grasp was the actual solving algorithm for which we used backtracking. Other things that this project made me notice was the bottom-up approach and the need for coordination when working in a team.
+This was the first team(2 students) project for us and because of that there was some trouble 
+in coordinating the collaboration in this project which slowed us down quite a lot. 
+
+For the first time in a project I used the bottom-up programming, 
+which certainly gave some advantage in being able to totally focus on the hardest part for last.
+
+Hardest part to grasp was the actual solving algorithm for which we used backtracking.
+
+Other things that this project made me notice were the bottom-up approach and the need for coordination when working in a team.
 
 ### Installation
 
