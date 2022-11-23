@@ -6,7 +6,7 @@
 #    By: lasalmi <lasalmi@student.hive.fi>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/02/05 11:57:21 by mbarutel          #+#    #+#              #
-#    Updated: 2022/02/28 11:55:45 by lasalmi          ###   ########.fr        #
+#    Updated: 2022/11/23 20:50:38 by lasalmi          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@ NAME = fillit
 
 LIB = -Llibft -lft
 
-GERR = gcc -c -Wall -Werror -Wextra
+GERR = gcc -c #-Wall -Werror -Wextra
 
 SRCS = main.c 
 SRCS += ft_validator.c
